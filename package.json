@@ -25,7 +25,7 @@
     "data-driven": "^1.4.0"
   },
   "dependencies": {
-    "chromedriver": "^100.0.0",
+    "chromedriver": "^107.0.3",
     "mocha": "^9.2.2",
     "selenium-webdriver": "^4.1.1"
   }
